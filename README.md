@@ -22,7 +22,7 @@ This project overcomes these limitations by leveraging **SAM 2**, a **transforme
 
 ---
 
-# ✨ Key Features
+# Key Features
 
 -  **Pixel-level multi-object segmentation**
 -  **Prompt-based interaction** (points, bounding boxes, masks)
